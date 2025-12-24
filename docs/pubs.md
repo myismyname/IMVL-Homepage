@@ -14,15 +14,15 @@ Xin Li, Yulin Ren, <ins>Xin Jin</ins>, Cuiling Lan, Xingrui Wang, <ins>Wenjun Ze
 
 ### 2024
 
-Jingwen Fu, Xiaoyi Zhang, Yuwang Wang, <ins>Wenjun Zeng</ins>, and Nanning Zheng. "Understanding mobile GUI: From pixel-words to screen-sentences." Neurocomputing, 2024.
+<!-- Jingwen Fu, Xiaoyi Zhang, Yuwang Wang, <ins>Wenjun Zeng</ins>, and Nanning Zheng. "Understanding mobile GUI: From pixel-words to screen-sentences." Neurocomputing, 2024. -->
 
-Fei Xie, Wankou Yang, Chunyu Wang, Lei Chu, Yue Cao, Chao Ma, and <ins>Wenjun Zeng</ins>. "Correlation-Embedded Transformer Tracking: A Single-Branch Framework." IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2024.
+<!-- Fei Xie, Wankou Yang, Chunyu Wang, Lei Chu, Yue Cao, Chao Ma, and <ins>Wenjun Zeng</ins>. "Correlation-Embedded Transformer Tracking: A Single-Branch Framework." IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2024. -->
 
 <ins>Xin Jin</ins>, Cuiling Lan, <ins>Wenjun Zeng</ins>, and Zhibo Chen. "Domain Prompt Tuning via Meta Relabeling for Unsupervised Adversarial Adaptation." IEEE Transactions on Multimedia (TMM), 2024.
 
 ### 2023
 
-Yifu Zhang, Chunyu Wang, Xinggang Wang, Wenyu Liu, and <ins>Wenjun Zeng</ins>. "VoxelTrack: Multi-Person 3D Human Pose Estimation and Tracking in the Wild." IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2023.
+<!-- Yifu Zhang, Chunyu Wang, Xinggang Wang, Wenyu Liu, and <ins>Wenjun Zeng</ins>. "VoxelTrack: Multi-Person 3D Human Pose Estimation and Tracking in the Wild." IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2023. -->
 
 Tengping Jiang, Yongjun Wang, <ins>Zequn Zhang</ins>, Shan Liu, Lei Dai, Yongchao Yang, <ins>Xin Jin</ins>, and <ins>Wenjun Zeng</ins>. "Extracting 3-D Structural Lines of Building From ALS Point Clouds Using Graph Neural Network Embedded With Corner Information." IEEE Transactions on Geoscience and Remote Sensing (TGRS), 2023.
 
