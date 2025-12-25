@@ -4,6 +4,7 @@ To modify the website content, you need to install the MkDocs with the Material 
 
 ```bash
 pip install mkdocs-material
+pip install mkdocs-macros-plugin
 ```
 
 ## Running the Website Locally
