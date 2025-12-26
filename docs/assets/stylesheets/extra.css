@@ -205,7 +205,7 @@ margin-bottom: 80px;
   }
 }
 
-/* ========== Member Cards - 手机端（单列垂直布局） ========== */
+/* ========== Member Cards - 手机端（单列水平布局，照片在左） ========== */
 @media screen and (max-width: 768px) {
   .md-typeset .member-cards {
     display: flex !important;
@@ -216,33 +216,34 @@ margin-bottom: 80px;
 
   .md-typeset .member-card {
     display: flex !important;
-    flex-direction: column !important;
+    flex-direction: row !important;
     align-items: center !important;
-    text-align: center !important;
+    text-align: left !important;
     width: 100% !important;
     border: 1px solid #ddd;
     border-radius: 10px;
-    padding: 20px !important;
+    padding: 15px !important;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
     box-sizing: border-box !important;
+    gap: 15px !important;
   }
 
   .md-typeset .member-card-avatar {
-    margin-bottom: 15px !important;
+    flex-shrink: 0 !important;
   }
 
   .md-typeset .member-card-avatar img {
-    width: 80px !important;
-    height: 80px !important;
+    width: 70px !important;
+    height: 70px !important;
     border-radius: 50%;
     object-fit: cover;
     object-position: top;
     display: block !important;
-    margin: 0 auto !important;
   }
 
   .md-typeset .member-card-info {
-    width: 100% !important;
+    flex: 1 !important;
+    min-width: 0 !important;
   }
 
   .md-typeset .member-card-info .name {
@@ -254,8 +255,9 @@ margin-bottom: 80px;
   }
 
   .md-typeset .member-card-info div {
-    font-size: 14px !important;
-    line-height: 1.5 !important;
-    margin-bottom: 5px !important;
+    font-size: 13px !important;
+    line-height: 1.4 !important;
+    margin-bottom: 3px !important;
+    word-wrap: break-word !important;
   }
 }
