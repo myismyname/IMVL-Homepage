@@ -8,7 +8,7 @@
     <div class="banner-bottom-blur">
       <div class="caption-container">
         <div class="banner-caption">
-          3D视觉与可操作性学习
+          IMVL Members at ICCV2025
         </div>
       </div>
     </div>
@@ -20,7 +20,7 @@
     <div class="banner-bottom-blur">
       <div class="caption-container">
         <div class="banner-caption">
-          具身智能与机器人技术
+          Prof. Zeng's Talk about Spatial Intelligence
         </div>
       </div>
     </div>

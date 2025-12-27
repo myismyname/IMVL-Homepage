@@ -7,7 +7,7 @@ theme:
   include_search_page: false
   search_index_only: true
   logo: assets/images/eit_logo.svg
-  favicon: assets/images/cuhk_logo.png
+  favicon: favicon.ico
   palette:
     - scheme: white
       primary: white
@@ -81,7 +81,7 @@ nav:
   - Research: research.md
   - Publications: pubs.md
   - Members: members.md
-  - Contact: contact.md
+  - About: contact.md
 
 plugins:
   - macros
