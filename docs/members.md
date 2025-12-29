@@ -1,10 +1,10 @@
-<div class="page-header">
+<!-- <div class="page-header">
     <h1>Members</h1>
     <div class="lang-switch">
         <button onclick="switchLang('en')" id="btn-en">English</button>
         <button onclick="switchLang('zh')" id="btn-zh">中文</button>
     </div>
-</div>
+</div> -->
 
 ## **Principal Investigator**
 
@@ -15,7 +15,8 @@
         </div>
         <div class="member-card-info">
             <div class="name"><a href="https://www.eitech.edu.cn/2025/0721/c287a707/page.htm" target="_blank"><span class="lang-en">Wenjun Zeng</span><span class="lang-zh">曾文军</span></a></div>
-            <div class="title"><span class="lang-en">Lab Director</span><span class="lang-zh">实验室主任</span></div>
+            <div class="title"><span class="lang-en">Lab Director, IEEE Fellow, Fellow of CAE</span><span class="lang-zh">实验室主任</span></div>
+            <div>Computer vision, Multimedia, Embodied AI, Spatial Intelligence, and Embodied AI</div>
             <div>Mail: <a href="mailto:wzeng-vp@eitech.edu.cn">wzeng-vp@eitech.edu.cn</a></div>
         </div>
     </div>
@@ -31,6 +32,7 @@
         <div class="member-card-info">
             <div class="name"><a href="https://jinx-ustc.github.io/jinxin.github.io/" target="_blank"><span class="lang-en">Xin Jin</span><span class="lang-zh">金鑫</span></a></div>
             <div class="title"><span class="lang-en">Assistant Professor</span><span class="lang-zh">助理教授</span></div>
+            <div>Computer vision, Multimedia, Embodied AI, Spatial Intelligence, and Embodied AI</div>
             <div>Mail: <a href="mailto:jinxin@eitech.edu.cn">jinxin@eitech.edu.cn</a></div>
         </div>
     </div>
@@ -45,7 +47,7 @@
         </div>
         <div class="member-card-info">
             <div class="name"><span class="lang-en">Shengyang Zhao</span><span class="lang-zh">赵盛洋</span></div>
-            <div class="title"><span class="lang-en">Associate Researcher</span><span class="lang-zh">副研究员</span></div>
+            <div class="title"><span class="lang-en">Associate Researcher (affiliated with IDT)</span><span class="lang-zh">副研究员</span></div>
             <div>Mail: <a href="mailto:szhao@idt.eitech.edu.cn">szhao@idt.eitech.edu.cn</a></div>
         </div>
     </div>
@@ -55,7 +57,7 @@
         </div>
         <div class="member-card-info">
             <div class="name"><span class="lang-en">Xiangyu Li</span><span class="lang-zh">李翔宇</span></div>
-            <div class="title"><span class="lang-en">Associate Researcher</span><span class="lang-zh">副研究员</span></div>
+            <div class="title"><span class="lang-en">Associate Researcher (affiliated with IDT)</span><span class="lang-zh">副研究员</span></div>
             <div>Mail: <a href="mailto:xli@idt.eitech.edu.cn">xli@idt.eitech.edu.cn</a></div>
         </div>
     </div>
@@ -65,98 +67,44 @@
         </div>
         <div class="member-card-info">
             <div class="name"><span class="lang-en">Baao Xie</span><span class="lang-zh">谢巴奥</span></div>
-            <div class="title"><span class="lang-en">Associate Researcher</span><span class="lang-zh">副研究员</span></div>
+            <div class="title"><span class="lang-en">Associate Researcher (affiliated with IDT)</span><span class="lang-zh">副研究员</span></div>
             <div>Mail: <a href="mailto:bxie@idt.eitech.edu.cn">bxie@idt.eitech.edu.cn</a></div>
         </div>
     </div>
     <div class="member-card">
         <div class="member-card-avatar">
-            <img src="../assets/images/members/pgs/wu_huihui.jpeg" alt="Profile Picture" class="zoom-in">
+            <img src="../assets/images/members/pgs/wu_huihui.jpeg" alt="Profile Picture" class="from-top">
         </div>
         <div class="member-card-info">
             <div class="name"><a href="https://hhwu18.github.io" target="_blank"><span class="lang-en">Huihui Wu</span><span class="lang-zh">吴辉辉</span></a></div>
-            <div class="title"><span class="lang-en">Associate Researcher</span><span class="lang-zh">副研究员</span></div>
+            <div class="title"><span class="lang-en">Associate Researcher (affiliated with IDT)</span><span class="lang-zh">副研究员</span></div>
             <div>Mail: <a href="mailto:hhwu@idt.eitech.edu.cn">hhwu@idt.eitech.edu.cn</a></div>
         </div>
     </div>
-</div>
-
-## **Postdocs**
-
-<div class="member-cards">
     <div class="member-card">
         <div class="member-card-avatar">
-            <img src="../assets/images/members/pgs/shaoyang_hua.jpg" alt="Profile Picture">
+            <img src="../assets/images/members/pgs/shaoyang_hua.jpg" alt="Profile Picture" class="from-top-10px">
         </div>
         <div class="member-card-info">
             <div class="name"><span class="lang-en">Shaoyang Hua</span><span class="lang-zh">滑少扬</span></div>
-            <div class="title"><span class="lang-en">Postdoctoral Researcher</span><span class="lang-zh">博士后研究员</span></div>
+            <div class="title"><span class="lang-en">Postdoctoral Researcher (affiliated with EIT)</span><span class="lang-zh">博士后研究员</span></div>
             <div>Mail: <a href="mailto:syhua@eitech.edu.cn">syhua@eitech.edu.cn</a></div>
         </div>
     </div>
     <div class="member-card">
         <div class="member-card-avatar">
-            <img src="../assets/images/members/pgs/hao_zheng.jpeg" alt="Profile Picture">
+            <img src="../assets/images/members/pgs/hao_zheng.jpeg" alt="Profile Picture" class="from-top">
         </div>
         <div class="member-card-info">
             <div class="name"><span class="lang-en">Hao Zheng</span><span class="lang-zh">郑豪</span></div>
-            <div class="title"><span class="lang-en">Postdoctoral Researcher</span><span class="lang-zh">博士后研究员</span></div>
+            <div class="title"><span class="lang-en">Postdoctoral Researcher (affiliated with EIT)</span><span class="lang-zh">博士后研究员</span></div>
             <div>Mail: <a href="mailto:hzheng@eitech.edu.cn">hzheng@eitech.edu.cn</a></div>
         </div>
     </div>
 </div>
 
-## **Engineers**
 
-<div class="member-cards">
-    <div class="member-card">
-        <div class="member-card-avatar">
-            <img src="../assets/images/members/pgs/quan_gan.jpeg" alt="Profile Picture">
-        </div>
-        <div class="member-card-info">
-            <div class="name"><span class="lang-en">Quan Gan</span><span class="lang-zh">甘泉</span></div>
-            <div class="title"><span class="lang-en">Engineer</span><span class="lang-zh">工程师</span></div>
-            <div>Mail: <a href="mailto:qgan@idt.eitech.edu.cn">qgan@idt.eitech.edu.cn</a></div>
-        </div>
-    </div>
-    <div class="member-card">
-        <div class="member-card-avatar">
-            <img src="../assets/images/members/pgs/xinyu_chen.jpg" alt="Profile Picture">
-        </div>
-        <div class="member-card-info">
-            <div class="name"><span class="lang-en">Xinyu Chen</span><span class="lang-zh">陈欣宇</span></div>
-            <div class="title"><span class="lang-en">Assistant Engineer</span><span class="lang-zh">助理工程师</span></div>
-            <div>Mail: <a href="mailto:xychen@idt.eitech.edu.cn">xychen@idt.eitech.edu.cn</a></div>
-        </div>
-    </div>
-</div>
-
-## **Research Assistants**
-
-<div class="member-cards">
-    <div class="member-card">
-        <div class="member-card-avatar">
-            <img src="../assets/images/members/pgs/rita.jpeg" alt="Profile Picture">
-        </div>
-        <div class="member-card-info">
-            <div class="name"><span class="lang-en">Jingyi Lin</span><span class="lang-zh">林婧怡</span></div>
-            <div class="title"><span class="lang-en">Research Assistant</span><span class="lang-zh">科研助理</span></div>
-            <div>Mail: <a href="mailto:jingyilin@eitech.edu.cn">jingyilin@eitech.edu.cn</a></div>
-        </div>
-    </div>
-    <div class="member-card">
-        <div class="member-card-avatar">
-            <img src="../assets/images/members/pgs/xin.jpeg" alt="Profile Picture">
-        </div>
-        <div class="member-card-info">
-            <div class="name"><span class="lang-en">Xin Liu</span><span class="lang-zh">刘鑫</span></div>
-            <div class="title"><span class="lang-en">Research Assistant</span><span class="lang-zh">科研助理</span></div>
-            <div>Mail: <a href="mailto:xliu1@idt.eitech.edu.cn">xliu1@idt.eitech.edu.cn</a></div>
-        </div>
-    </div>
-</div>
-
-## **Graduate Students**
+## **Students**
 
 ### Since 2022
 
@@ -178,6 +126,7 @@
         <div class="member-card-info">
             <div class="name"><a href="https://yuanmingqi.github.io/" target="_blank"><span class="lang-en">Mingqi Yuan</span><span class="lang-zh">袁明奇</span></a></div>
             <div class="title"><span class="lang-en">Ph.D. Student (HK PolyU)</span><span class="lang-zh">博士生（香港理工大学）</span></div>
+            <div>Reinforcement Learning, Humanoid Robotics, Embodied Intelligence, and Computer Vision</div>
             <div>Mail: <a href="mailto:mingqi.yuan@connect.polyu.hk">mingqi.yuan@connect.polyu.hk</a></div>
         </div>
     </div>
@@ -423,8 +372,56 @@
     </div>
 </div>
 
-## **Undergraduate Students**
-- ***
+
+## **Engineers**
+
+<div class="member-cards">
+    <div class="member-card">
+        <div class="member-card-avatar">
+            <img src="../assets/images/members/pgs/quan_gan.jpeg" alt="Profile Picture">
+        </div>
+        <div class="member-card-info">
+            <div class="name"><span class="lang-en">Quan Gan</span><span class="lang-zh">甘泉</span></div>
+            <div class="title"><span class="lang-en">Engineer</span><span class="lang-zh">工程师</span></div>
+            <div>Mail: <a href="mailto:qgan@idt.eitech.edu.cn">qgan@idt.eitech.edu.cn</a></div>
+        </div>
+    </div>
+    <div class="member-card">
+        <div class="member-card-avatar">
+            <img src="../assets/images/members/pgs/xinyu_chen.jpg" alt="Profile Picture">
+        </div>
+        <div class="member-card-info">
+            <div class="name"><span class="lang-en">Xinyu Chen</span><span class="lang-zh">陈欣宇</span></div>
+            <div class="title"><span class="lang-en">Assistant Engineer</span><span class="lang-zh">助理工程师</span></div>
+            <div>Mail: <a href="mailto:xychen@idt.eitech.edu.cn">xychen@idt.eitech.edu.cn</a></div>
+        </div>
+    </div>
+</div>
+
+## **Supporting Staffs**
+
+<div class="member-cards">
+    <div class="member-card">
+        <div class="member-card-avatar">
+            <img src="../assets/images/members/pgs/rita.jpeg" alt="Profile Picture">
+        </div>
+        <div class="member-card-info">
+            <div class="name"><span class="lang-en">Jingyi Lin</span><span class="lang-zh">林婧怡</span></div>
+            <div class="title"><span class="lang-en">Executive Assistant</span><span class="lang-zh">科研助理</span></div>
+            <div>Mail: <a href="mailto:jingyilin@eitech.edu.cn">jingyilin@eitech.edu.cn</a></div>
+        </div>
+    </div>
+    <div class="member-card">
+        <div class="member-card-avatar">
+            <img src="../assets/images/members/pgs/xin.jpeg" alt="Profile Picture" class="from-top">
+        </div>
+        <div class="member-card-info">
+            <div class="name"><span class="lang-en">Xin Liu</span><span class="lang-zh">刘鑫</span></div>
+            <div class="title"><span class="lang-en">Executive Assistant</span><span class="lang-zh">科研助理</span></div>
+            <div>Mail: <a href="mailto:xliu1@idt.eitech.edu.cn">xliu1@idt.eitech.edu.cn</a></div>
+        </div>
+    </div>
+</div>
 
 ## **Alumni**
 ### 2025
@@ -490,9 +487,9 @@ document.addEventListener('DOMContentLoaded', function() {
 }
 .member-card-avatar {
     overflow: hidden;
-    border-radius: 50%;
+    border-radius: 8px;
 }
-.member-card-avatar img.zoom-in {
+/* .member-card-avatar img.zoom-in {
     transform: scale(2.5);
     object-fit: cover;
 }
@@ -516,4 +513,8 @@ document.addEventListener('DOMContentLoaded', function() {
     transform: scale(1.5);
     object-fit: cover;
 }
+.member-card-avatar img.from-top {
+    object-position: top;
+} */
+
 </style>

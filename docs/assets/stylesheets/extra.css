@@ -208,7 +208,7 @@ margin-bottom: 80px;
 
   .md-typeset .member-card {
     display: grid;
-    grid-template-columns: 100px 1fr;
+    grid-template-columns: 120px 1fr;
     align-items: center;
     gap: 15px;
     border: 1px solid #ddd;
@@ -219,11 +219,11 @@ margin-bottom: 80px;
   }
 
   .md-typeset .member-card-avatar img {
-    width: 100px;
-    height: 100px;
-    border-radius: 50%;
+    width: 120px;
+    height: 150px;
+    border-radius: 8px;
     object-fit: cover;
-    object-position: top;
+    object-position: center;
     display: block;
   }
 
@@ -268,11 +268,11 @@ margin-bottom: 80px;
   }
 
   .md-typeset .member-card-avatar img {
-    width: 70px !important;
-    height: 70px !important;
-    border-radius: 50%;
+    width: 80px !important;
+    height: 100px !important;
+    border-radius: 8px;
     object-fit: cover;
-    object-position: top;
+    object-position: center;
     display: block !important;
   }
 
