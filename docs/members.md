@@ -101,6 +101,7 @@
         <div class="member-card-info">
             <div class="name"><span class="lang-en">Hao Zheng</span><span class="lang-zh">郑豪</span></div>
             <div class="title"><span class="lang-en">Postdoctoral Researcher (affiliated with EIT)</span><span class="lang-zh">博士后研究员</span></div>
+            <div class="keywords">Disentangled Representation Learning, Reinforcement Learning, Operations and Supply Chain Management, Marketing Analytics</div>
             <div>Mail: <a href="mailto:hzheng@eitech.edu.cn">hzheng@eitech.edu.cn</a></div>
         </div>
     </div>
@@ -299,12 +300,13 @@
     </div>
     <div class="member-card">
         <div class="member-card-avatar">
-            <img src="" alt="Profile Picture">
+            <img src="../assets/images/members/pgs/zqiangli.jpg" alt="Profile Picture">
         </div>
         <div class="member-card-info">
             <div class="name"><span class="lang-en">Ziqiang Li</span><span class="lang-zh">李子强</span></div>
             <div class="title"><span class="lang-en">Ph.D. Student (SJTU)</span><span class="lang-zh">博士生（上海交通大学）</span></div>
-            <div>Mail: <a href="mailto:"></a></div>
+            <div class="keywords">Image and Video Generation, Pattern Recognition</div>
+            <div>Mail: <a href="mailto:ziqiangli@sjtu.edu.cn">ziqiangli@sjtu.edu.cn</a></div>
         </div>
     </div>
 </div>
