@@ -1,7 +1,7 @@
 <div class="banner">
 
   <div class="banner-slide active">
-    <img class="banner-image" src="assets/images/banner/uav1.jpg" alt="无人机视觉展示">
+    <img class="banner-image" src="assets/images/banner/uav1.jpg" alt="IMVL Members at ICCV2025">
     <!-- 覆盖层 -->
     <div class="banner-overlay"></div>
     <!-- 底部高斯模糊区域 - 现在包含标题 -->
@@ -15,7 +15,7 @@
   </div>
 
   <div class="banner-slide">
-    <img class="banner-image" src="assets/images/banner/uav2.jpg" alt="机器人技术展示">
+    <img class="banner-image" src="assets/images/banner/uav2.jpg" alt="Prof. Zeng's Talk about Spatial Intelligence">
     <div class="banner-overlay"></div>
     <div class="banner-bottom-blur">
       <div class="caption-container">
@@ -27,12 +27,12 @@
   </div>
 
   <div class="banner-slide">
-    <img class="banner-image" src="assets/images/banner/uav3.jpg" alt="无人机自主导航">
+    <img class="banner-image" src="assets/images/banner/uav3.png" alt="Prof. Zeng in Zhibo Expo Interview: AI and the Physical World">
     <div class="banner-overlay"></div>
     <div class="banner-bottom-blur">
       <div class="caption-container">
         <div class="banner-caption">
-          自主无人机导航
+          Prof. Zeng in Zhibo Expo Interview:<br> AI and the Physical World
         </div>
       </div>
     </div>
