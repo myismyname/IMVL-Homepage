@@ -6,9 +6,9 @@
 ## **Prospective Members**
 
 
-The Intelligent Media and Vision Laboratory (IMVL) is actively seeking self-motivated **PhD candidates (Spring & Fall 2026), research interns, and postdocs** from diverse background (CS/Robotics/EE/Math/Physics/BME/...) to join our team. If your research interests align with ours, we invite you to email us your CV/resume.
+The Intelligent Media and Vision Laboratory (IMVL) is actively seeking self-motivated **Ph.D. students**, **research interns**, and **postdoctoral researchers** from diverse background (CS/Robotics/EE/Math/Physics/BME/...) to join our team. If your research interests align with ours, we invite you to email us your CV/resume.
 
-**PhD Opportunities**: we recruit students through several joint PhD programs between EIT and leading domestic/international universities including SJTU, PolyU and USTC. For more information, please visit the [EIT PhD Admissions](https://www.eitech.edu.cn/457/list.htm) page.  
+**Ph.D. Opportunities**: we recruit students through several joint PhD programs between EIT and leading domestic/international universities including SJTU, PolyU and USTC. For more information, please visit the [EIT PhD Admissions](https://www.eitech.edu.cn/yjszs_131/list.htm) page.  
 
 ## **Contact Us**
 
@@ -69,4 +69,4 @@ The Intelligent Media and Vision Laboratory (IMVL) is actively seeking self-moti
   </script>
 </html>
 
-:fontawesome-solid-envelope: **E-mail**: wzeng-vp[at]eitech.edu.cn
+:fontawesome-solid-envelope: **E-mail**: xliu1@idt.eitech.edu.cn
