@@ -129,7 +129,7 @@
             <img src="../assets/images/members/pgs/ymq.jpg" alt="Profile Picture">
         </div>
         <div class="member-card-info">
-            <div class="name"><a href="https://yuanmingqi.github.io/" target="_blank"><span class="lang-en">Mingqi Yuan</span><span class="lang-zh">袁明奇</span></a></div>
+            <div class="name"><a href="https://myismyname.github.io/" target="_blank"><span class="lang-en">Mingqi Yuan</span><span class="lang-zh">袁明奇</span></a></div>
             <div class="title"><span class="lang-en">Ph.D. Student (HK PolyU)</span><span class="lang-zh">博士生（香港理工大学）</span></div>
             <div class="keywords">Reinforcement Learning, Humanoid Robotics, Embodied Intelligence, and Computer Vision</div>
             <div>Mail: <a href="mailto:mingqi.yuan@connect.polyu.hk">mingqi.yuan@connect.polyu.hk</a></div>
