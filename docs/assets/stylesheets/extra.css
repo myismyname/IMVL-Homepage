@@ -238,6 +238,13 @@ margin-bottom: 80px;
   .md-typeset .member-card-info .title {
     font-weight: bold;
   }
+
+  .md-typeset .member-card-info .keywords {
+    font-size: 0.85em;
+    color: #555;
+    font-style: italic;
+    margin: 4px 0;
+  }
 }
 
 /* ========== Member Cards - 手机端（单列水平布局，照片在左） ========== */
@@ -287,6 +294,12 @@ margin-bottom: 80px;
 
   .md-typeset .member-card-info .title {
     font-weight: bold;
+  }
+
+  .md-typeset .member-card-info .keywords {
+    font-size: 12px !important;
+    color: #555;
+    font-style: italic;
   }
 
   .md-typeset .member-card-info div {
