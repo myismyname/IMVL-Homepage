@@ -41,6 +41,7 @@ extra_javascript:
   - assets/javascripts/banner.js
 
 markdown_extensions:
+  - sane_lists
   - pymdownx.arithmatex:
       generic: true
   - attr_list
