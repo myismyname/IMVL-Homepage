@@ -17,18 +17,18 @@ hide:
 - **2025.10** We organized ICCV 2025 Workshop: The 1st International Workshop on Disentangled Representation Learning for Controllable Generation (DRL4Real). [Workshop Link](https://drl-for-real.github.io/DRL-for-Real/index.html)
 
 - **2025.09** Two papers accepted to NeurIPS 2025:
-  - "SoFar: Language-Grounded Orientation Bridges Spatial Reasoning and Object Manipulation" (Spotlight Paper) [Paper Link](https://arxiv.org/abs/2502.13143)
-  - "DreamVLA: A Vision-Language-Action Model Dreamed with Comprehensive World Knowledge" [Paper Link](https://arxiv.org/abs/2507.04447)
+    - "SoFar: Language-Grounded Orientation Bridges Spatial Reasoning and Object Manipulation" (Spotlight) [Paper Link](https://arxiv.org/abs/2502.13143)
+    - "DreamVLA: A Vision-Language-Action Model Dreamed with Comprehensive World Knowledge" [Paper Link](https://arxiv.org/abs/2507.04447)
 
 - **2025.08** Two papers accepted to IEEE TPAMI:
-  - "OccScene: Semantic Occupancy-based Cross-task Mutual Learning for 3D Scene Generation" [Paper Link](https://arxiv.org/abs/2412.11183)
-  - "NaviNeRF++: Towards Interpretable 3D Reconstruction via Unsupervised Disentangled Representation Learning" [Paper Link](https://ieeexplore.ieee.org/document/11144453/)
+    - "OccScene: Semantic Occupancy-based Cross-task Mutual Learning for 3D Scene Generation" [Paper Link](https://arxiv.org/abs/2412.11183)
+    - "NaviNeRF++: Towards Interpretable 3D Reconstruction via Unsupervised Disentangled Representation Learning" [Paper Link](https://ieeexplore.ieee.org/document/11144453/)
 
 - **2025.07** Four papers accepted to ICCV 2025:
-  - "InterVLA: Perceiving and Acting in First-Person: A Dataset and Benchmark for Egocentric Human-Object-Human Interactions" [Paper Link](https://arxiv.org/abs/2508.04681)
-  - "ULTHO: Ultra-Lightweight yet Efficient Hyperparameter Optimization in Deep Reinforcement Learning" [Paper Link](https://arxiv.org/abs/2503.06101)
-  - "Disentangled World Models: Learning to Transfer Semantic Knowledge from Distracting Videos for Reinforcement Learning" [Paper Link](https://arxiv.org/abs/2503.08751)
-  - "Hybrid-grained Feature Aggregation with Coarse-to-fine Language Guidance for Self-supervised Monocular Depth Estimation" [Paper Link](https://arxiv.org/abs/2510.09320)
+    - "InterVLA: Perceiving and Acting in First-Person: A Dataset and Benchmark for Egocentric Human-Object-Human Interactions" [Paper Link](https://arxiv.org/abs/2508.04681)
+    - "ULTHO: Ultra-Lightweight yet Efficient Hyperparameter Optimization in Deep Reinforcement Learning" [Paper Link](https://arxiv.org/abs/2503.06101)
+    - "Disentangled World Models: Learning to Transfer Semantic Knowledge from Distracting Videos for Reinforcement Learning" [Paper Link](https://arxiv.org/abs/2503.08751)
+    - "Hybrid-grained Feature Aggregation with Coarse-to-fine Language Guidance for Self-supervised Monocular Depth Estimation" [Paper Link](https://arxiv.org/abs/2510.09320)
 
 - **2025.07** Our paper "Canvas: Compositional Generation for Art Painting with Seamless Subject-Driven Infusion" has been accepted to IEEE TCSVT. [Paper Link](https://ieeexplore.ieee.org/document/11077416/)
 
