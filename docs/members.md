@@ -295,6 +295,7 @@
         <div class="member-card-info">
             <div class="name"><span class="lang-en">Zequn Zhang</span><span class="lang-zh">张泽群</span></div>
             <div class="title"><span class="lang-en">Ph.D. Student (USTC)</span><span class="lang-zh">博士生（中国科学技术大学）</span></div>
+            <div class="keywords">Medical Artificial Intelligence, Vision-Language Models, Multimodal Learning, and Multimodal Large Models</div>
             <div>Mail: <a href="mailto:zqzhang@eitech.edu.cn">zqzhang@eitech.edu.cn</a></div>
         </div>
     </div>
