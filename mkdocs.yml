@@ -76,9 +76,9 @@ extra:
 nav:
   - Home: 
     - "2025": index.md
-    - "2024": news/2024.md
-    - "2023": news/2023.md
-    - "2022": news/2022.md
+    # - "2024": news/2024.md
+    # - "2023": news/2023.md
+    # - "2022": news/2022.md
   - Research: research.md
   - Publications: pubs.md
   - Members: members.md
