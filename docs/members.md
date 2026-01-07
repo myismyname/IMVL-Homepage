@@ -6,7 +6,7 @@
     </div>
 </div> -->
 
-## **Principal Investigator**
+## **Faculties**
 
 <div class="member-cards">
     <div class="member-card">
@@ -15,16 +15,11 @@
         </div>
         <div class="member-card-info">
             <div class="name"><a href="https://www.eitech.edu.cn/2025/0721/c287a707/page.htm" target="_blank"><span class="lang-en">Wenjun Zeng</span><span class="lang-zh">曾文军</span></a></div>
-            <div class="title"><span class="lang-en">Lab Director, IEEE Fellow, Fellow of CAE</span><span class="lang-zh">实验室主任</span></div>
+            <div class="title"><span class="lang-en">Vice President, IEEE Fellow, Fellow of CAE</span><span class="lang-zh">实验室主任</span></div>
             <div class="keywords">Computer Vision, Multimedia, Embodied AI, Spatial Intelligence</div>
             <div>Mail: <a href="mailto:wzeng-vp@eitech.edu.cn">wzeng-vp@eitech.edu.cn</a></div>
         </div>
     </div>
-</div>
-
-## **Faculties**
-
-<div class="member-cards">
     <div class="member-card">
         <div class="member-card-avatar">
             <img src="../assets/images/members/pgs/xin_jin.jpg" alt="Profile Picture">
@@ -47,7 +42,7 @@
         </div>
         <div class="member-card-info">
             <div class="name"><span class="lang-en">Shengyang Zhao</span><span class="lang-zh">赵盛洋</span></div>
-            <div class="title"><span class="lang-en">Associate Researcher (affiliated with IDT)</span><span class="lang-zh">副研究员</span></div>
+            <div class="title"><span class="lang-en">Associate Researcher</span><span class="lang-zh">副研究员</span></div>
             <div class="keywords">Multimedia, Coding & Quality Assessment, Spatial Intelligence and Autonomous Driving</div>
             <div>Mail: <a href="mailto:szhao@idt.eitech.edu.cn">szhao@idt.eitech.edu.cn</a></div>
         </div>
@@ -58,7 +53,8 @@
         </div>
         <div class="member-card-info">
             <div class="name"><span class="lang-en">Xiangyu Li</span><span class="lang-zh">李翔宇</span></div>
-            <div class="title"><span class="lang-en">Associate Researcher (affiliated with IDT)</span><span class="lang-zh">副研究员</span></div>
+            <div class="title"><span class="lang-en">Associate Researcher</span><span class="lang-zh">副研究员</span></div>
+            <div class="keywords">Space-Air-Ground Integrated Networks, Non-terrestrial Networks, Satellite Communication</div>
             <div>Mail: <a href="mailto:xli@idt.eitech.edu.cn">xli@idt.eitech.edu.cn</a></div>
         </div>
     </div>
@@ -68,7 +64,7 @@
         </div>
         <div class="member-card-info">
             <div class="name"><span class="lang-en">Baao Xie</span><span class="lang-zh">谢巴奥</span></div>
-            <div class="title"><span class="lang-en">Associate Researcher (affiliated with IDT)</span><span class="lang-zh">副研究员</span></div>
+            <div class="title"><span class="lang-en">Associate Researcher</span><span class="lang-zh">副研究员</span></div>
             <div class="keywords">Computer Vision, 3D Reconstruction, Disentangled Representation Learning, Multimodal Large Models</div>
             <div>Mail: <a href="mailto:bxie@idt.eitech.edu.cn">bxie@idt.eitech.edu.cn</a></div>
         </div>
@@ -79,7 +75,8 @@
         </div>
         <div class="member-card-info">
             <div class="name"><a href="https://hhwu18.github.io" target="_blank"><span class="lang-en">Huihui Wu</span><span class="lang-zh">吴辉辉</span></a></div>
-            <div class="title"><span class="lang-en">Associate Researcher (affiliated with IDT)</span><span class="lang-zh">副研究员</span></div>
+            <div class="title"><span class="lang-en">Associate Researcher</span><span class="lang-zh">副研究员</span></div>
+            <div class="keywords">Communications, Coding Theory, Information Theory, and Machine Learning</div>
             <div>Mail: <a href="mailto:hhwu@idt.eitech.edu.cn">hhwu@idt.eitech.edu.cn</a></div>
         </div>
     </div>
@@ -89,7 +86,7 @@
         </div>
         <div class="member-card-info">
             <div class="name"><span class="lang-en">Shaoyang Hua</span><span class="lang-zh">滑少扬</span></div>
-            <div class="title"><span class="lang-en">Postdoctoral Researcher (affiliated with EIT)</span><span class="lang-zh">博士后研究员</span></div>
+            <div class="title"><span class="lang-en">Postdoctoral Researcher</span><span class="lang-zh">博士后研究员</span></div>
             <div class="keywords">Brain-Computer Interface, AI-Generated Content (AIGC), Embodied AI</div>
             <div>Mail: <a href="mailto:syhua@eitech.edu.cn">syhua@eitech.edu.cn</a></div>
         </div>
@@ -100,7 +97,7 @@
         </div>
         <div class="member-card-info">
             <div class="name"><span class="lang-en">Hao Zheng</span><span class="lang-zh">郑豪</span></div>
-            <div class="title"><span class="lang-en">Postdoctoral Researcher (affiliated with EIT)</span><span class="lang-zh">博士后研究员</span></div>
+            <div class="title"><span class="lang-en">Postdoctoral Researcher</span><span class="lang-zh">博士后研究员</span></div>
             <div class="keywords">Disentangled Representation Learning, Reinforcement Learning, Operations and Supply Chain Management, Marketing Analytics</div>
             <div>Mail: <a href="mailto:hzheng@eitech.edu.cn">hzheng@eitech.edu.cn</a></div>
         </div>
@@ -109,8 +106,6 @@
 
 
 ## **Students**
-
-### Since 2022
 
 <div class="member-cards">
     <div class="member-card">
@@ -179,11 +174,6 @@
             <div>Mail: <a href="mailto:zcwang@eitech.edu.cn">zcwang@eitech.edu.cn</a></div>
         </div>
     </div>
-</div>
-
-### Since 2023
-
-<div class="member-cards">
     <div class="member-card">
         <div class="member-card-avatar">
             <img src="../assets/images/members/pgs/libohan.jpg" alt="Profile Picture">
@@ -239,11 +229,6 @@
             <div>Mail: <a href="mailto:wangyunnan@sjtu.edu.cn">wangyunnan@sjtu.edu.cn</a></div>
         </div>
     </div>
-</div>
-
-### Since 2024
-
-<div class="member-cards">
     <div class="member-card">
         <div class="member-card-avatar">
             <img src="../assets/images/members/pgs/eric_liu.jpeg" alt="Profile Picture" class="zoom-in-hongsi">
@@ -310,11 +295,6 @@
             <div>Mail: <a href="mailto:ziqiangli@sjtu.edu.cn">ziqiangli@sjtu.edu.cn</a></div>
         </div>
     </div>
-</div>
-
-### Since 2025
-
-<div class="member-cards">
     <div class="member-card">
         <div class="member-card-avatar">
             <img src="../assets/images/members/pgs/jiahui_yuan.jpg" alt="Profile Picture">
@@ -381,11 +361,6 @@
             <div>Mail: <a href="mailto:zllin@eitech.edu.cn">zllin@eitech.edu.cn</a></div>
         </div>
     </div>
-</div>
-
-### Since 2026
-
-<div class="member-cards">
     <div class="member-card">
         <div class="member-card-avatar">
             <img src="../assets/images/members/pgs/fangzheng_ye.jpeg" alt="Profile Picture">
@@ -473,7 +448,7 @@
 </div>
 
 ## **Alumni**
-### 2025
+
 
 <script>
 function switchLang(lang) {

@@ -15,7 +15,7 @@ hide:
     - *A Survey of Behavior Foundation Model: Next-Generation Whole-Body Control System of Humanoid Robots* [[Link]](https://arxiv.org/abs/2506.20487)
     - *Hierarchical Context Alignment with Disentangled Geometric and Temporal Modeling for Semantic Occupancy Prediction* [[Link]](https://arxiv.org/pdf/2412.08243)
 
-- **2025.10** We organized ICCV 2025 Workshop: The 1st International Workshop on Disentangled Representation Learning for Controllable Generation (DRL4Real). [[Link]](https://drl-for-real.github.io/DRL-for-Real/index.html)
+- **2025.10** We organized a workshop at ICCV 2025: The 1st International Workshop on Disentangled Representation Learning for Controllable Generation (DRL4Real). [[Link]](https://drl-for-real.github.io/DRL-for-Real/index.html)
 
 - **2025.09** Two papers accepted to **NeurIPS 2025**:
     - *SoFar: Language-Grounded Orientation Bridges Spatial Reasoning and Object Manipulation* (**Spotlight**) [[Link]](https://arxiv.org/abs/2502.13143)
