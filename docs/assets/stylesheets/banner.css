@@ -115,16 +115,23 @@
   align-items: flex-end; /* 这样标题会贴在容器底部 */
   padding-bottom: 10px; /* 添加底部内边距，让标题离底边有一定距离 */
   z-index: 4;
-  pointer-events: none;
+  pointer-events: all;
 }
 
 /* =========================
    标题样式
 ========================= */
+.banner-caption-link {
+  display: block;      /* 关键 */
+  width: 100%;         /* 关键 */
+  pointer-events: auto;
+  text-decoration: none;
+}
+
 .banner-caption {
   position: relative;
   left: 5%;
-  max-width: 70%;
+  max-width: 80%;
   font-size: 1.8rem;
   font-weight: 600;
   line-height: 1.3;
@@ -281,7 +288,7 @@
   .banner-caption {
     font-size: 1.6rem;
     left: 5%;
-    max-width: 60%;
+    max-width: 80%;
     padding: 15px 25px;
   }
 
