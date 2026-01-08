@@ -1,8 +1,20 @@
-# **Publications** <span style="font-size: 20px;">*（Underlined <ins>authors</ins> are current or former lab members)*</span>
+# **Selected Publications** <span style="font-size: 20px;">*（Underlined <ins>authors</ins> are current or former lab members)*</span>
 
-## **Journal Papers (Since 2022)**
+## **Journal Papers**
 
 ### 2025
+
+
+<ins>Bohan Li</ins>, Jiajun Deng, Yasheng Sun, Xiaofeng Wang, <ins>Xin Jin</ins>, and Wenjun Zeng</ins>. "Hierarchical Context Alignment With Disentangled Geometric and Temporal Modeling for Semantic Occupancy Prediction." IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2025.
+
+
+<ins>Mingqi Yuan</ins>, Tao Yu, Wenqi Ge, Xiuyong Yao, Dapeng Li, Huijiang Wang, Jiayu Chen, Bo Li, Wei Zhang, <ins>Wenjun Zeng</ins>, Hua Chen, and <ins>Xin Jin</ins>. "A Survey of Behavior Foundation Model: Next-Generation Whole-Body Control System of Humanoid Robots." IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2025.
+
+<ins>Bohan Li</ins>, <ins>Xin Jin</ins>, Jianan Wang, Yukai Shi, Yasheng Sun, Xiaofeng Wang, Zhuang Ma, <ins>Baao Xie</ins>, Chao Ma, Xiaokang Yang, and <ins>Wenjun Zeng</ins>. "OccScene: Semantic Occupancy-based Cross-task Mutual Learning for 3D Scene Generation." IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2025.
+
+
+<ins>Baao Xie</ins>, <ins>Zequn Zhang</ins>, <ins>Huanting Guo</ins>, <ins>Qiuyu Chen</ins>, <ins>Hu Zhu</ins>, <ins>Bohan Li</ins>, <ins>Wenjun Zeng</ins>, and <ins>Xin Jin</ins>. "NaviNeRF++: Towards Interpretable 3D Reconstruction via Unsupervised Disentangled Representation Learning." IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2025.
+
 
 Xin Li, Yulin Ren, <ins>Xin Jin</ins>, Cuiling Lan, Xingrui Wang, <ins>Wenjun Zeng</ins>, Xinchao Wang, and Zhibo Chen. "Diffusion Models for Image Restoration and Enhancement: A Comprehensive Survey." International Journal of Computer Vision (IJCV), 2025.
 
@@ -32,7 +44,7 @@ Jindong Wang, Cuiling Lan, Chang Liu, Yidong Ouyang, Tao Qin, Wang Lu, Yiqiang C
 
 <ins>Liang Xu</ins>, Cuiling Lan, <ins>Wenjun Zeng</ins>, and Cewu Lu. "Skeleton-Based Mutually Assisted Interacted Object Localization and Human Action Recognition." IEEE Transactions on Multimedia (TMM), 2023.
 
-## **Conference Papers (Since 2022)**
+## **Conference Papers**
 
 ### 2025
 

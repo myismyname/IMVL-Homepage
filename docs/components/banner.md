@@ -1,13 +1,13 @@
 <div class="banner">
 
   <div class="banner-slide active">
-    <img class="banner-image" src="assets/images/banner/uav1.png" alt="Prof. Zeng in Zhibo Expo Interview: AI and the Physical World">
+    <img class="banner-image" src="assets/images/banner/nbusc2025.jpg" alt="Prof. Zeng in Zhibo Expo Interview: AI and the Physical World">
     <div class="banner-overlay"></div>
     <div class="banner-bottom-blur">
       <div class="caption-container">
-        <a href="https://ypstatic.cnnb.com.cn/yppage-share/news/share/news_detail?newsId=68a3ef74e4b0404c763529c6&type=wx" target="_blank" class="banner-caption-link">
+        <a href="https://www.ccf.org.cn/Chapters/Local_Activities/Chapter_News/2025-12-23/855342.shtml" target="_blank" class="banner-caption-link">
         <div class="banner-caption">
-          Prof. Zeng in Zhibo Expo Interview:<br> AI and the Physical World
+          Prof. Zeng's Opening Address at the NBUSC2025
         </div>
         </a>
       </div>
@@ -21,7 +21,7 @@
       <div class="caption-container">
         <a href="https://mp.weixin.qq.com/s/XE7ODaFnjseRKw2AeBwj4A" target="_blank" class="banner-caption-link">
         <div class="banner-caption">
-          Prof. Zeng's Address at The 7th CCSAT
+          Prof. Zeng's Opening Address at The 7th CCSAT
         </div>
         </a>
       </div>

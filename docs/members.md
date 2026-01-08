@@ -33,7 +33,7 @@
     </div>
 </div>
 
-## **Researchers**
+## **Researchers & Engineers**
 
 <div class="member-cards">
     <div class="member-card">
@@ -100,6 +100,26 @@
             <div class="title"><span class="lang-en">Postdoctoral Researcher</span><span class="lang-zh">博士后研究员</span></div>
             <div class="keywords">Disentangled Representation Learning, Reinforcement Learning, Operations and Supply Chain Management, Marketing Analytics</div>
             <div>Mail: <a href="mailto:hzheng@eitech.edu.cn">hzheng@eitech.edu.cn</a></div>
+        </div>
+    </div>
+    <div class="member-card">
+        <div class="member-card-avatar">
+            <img src="../assets/images/members/pgs/quan_gan.jpeg" alt="Profile Picture">
+        </div>
+        <div class="member-card-info">
+            <div class="name"><span class="lang-en">Quan Gan</span><span class="lang-zh">甘泉</span></div>
+            <div class="title"><span class="lang-en">Engineer</span><span class="lang-zh">工程师</span></div>
+            <div>Mail: <a href="mailto:qgan@idt.eitech.edu.cn">qgan@idt.eitech.edu.cn</a></div>
+        </div>
+    </div>
+    <div class="member-card">
+        <div class="member-card-avatar">
+            <img src="../assets/images/members/pgs/xinyu_chen.jpg" alt="Profile Picture">
+        </div>
+        <div class="member-card-info">
+            <div class="name"><span class="lang-en">Xinyu Chen</span><span class="lang-zh">陈欣宇</span></div>
+            <div class="title"><span class="lang-en">Assistant Engineer</span><span class="lang-zh">助理工程师</span></div>
+            <div>Mail: <a href="mailto:xychen@idt.eitech.edu.cn">xychen@idt.eitech.edu.cn</a></div>
         </div>
     </div>
 </div>
@@ -396,31 +416,6 @@
     </div>
 </div>
 
-
-## **Engineers**
-
-<div class="member-cards">
-    <div class="member-card">
-        <div class="member-card-avatar">
-            <img src="../assets/images/members/pgs/quan_gan.jpeg" alt="Profile Picture">
-        </div>
-        <div class="member-card-info">
-            <div class="name"><span class="lang-en">Quan Gan</span><span class="lang-zh">甘泉</span></div>
-            <div class="title"><span class="lang-en">Engineer</span><span class="lang-zh">工程师</span></div>
-            <div>Mail: <a href="mailto:qgan@idt.eitech.edu.cn">qgan@idt.eitech.edu.cn</a></div>
-        </div>
-    </div>
-    <div class="member-card">
-        <div class="member-card-avatar">
-            <img src="../assets/images/members/pgs/xinyu_chen.jpg" alt="Profile Picture">
-        </div>
-        <div class="member-card-info">
-            <div class="name"><span class="lang-en">Xinyu Chen</span><span class="lang-zh">陈欣宇</span></div>
-            <div class="title"><span class="lang-en">Assistant Engineer</span><span class="lang-zh">助理工程师</span></div>
-            <div>Mail: <a href="mailto:xychen@idt.eitech.edu.cn">xychen@idt.eitech.edu.cn</a></div>
-        </div>
-    </div>
-</div>
 
 ## **Supporting Staffs**
 
