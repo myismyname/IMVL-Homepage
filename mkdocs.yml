@@ -7,7 +7,7 @@ theme:
   include_search_page: false
   search_index_only: true
   logo: assets/images/eit_logo.svg
-  favicon: favicon.ico
+  favicon: assets/images/favicon.ico
   palette:
     - scheme: white
       primary: white
