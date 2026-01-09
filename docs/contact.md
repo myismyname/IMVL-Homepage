@@ -22,7 +22,7 @@ The Intelligent Media and Vision Laboratory (IMVL) is actively seeking self-moti
     <meta name="description" content="百度地图API自定义地图，帮助用户在可视化操作下生成百度地图" />
     <title>百度地图API自定义地图</title>
     <!--引用百度地图API-->
-    <script type="text/javascript" src="http://api.map.baidu.com/api?v=2.0&ak=tY3HOuLE9Y55M5D5HFXBV05QtUFBwYBE"></script>
+    <script type="text/javascript" src="https://api.map.baidu.com/api?v=2.0&ak=tY3HOuLE9Y55M5D5HFXBV05QtUFBwYBE"></script>
   </head>
   
   <body>
@@ -65,7 +65,14 @@ The Intelligent Media and Vision Laboratory (IMVL) is actively seeking self-moti
       map.addControl(overviewControl);
     }
     var map;
+    // 确保在DOM加载完成后再初始化地图
+    if (typeof BMap !== 'undefined') {
       initMap();
+    } else {
+      window.onload = function() {
+        initMap();
+      };
+    }
   </script>
 </html>
 
