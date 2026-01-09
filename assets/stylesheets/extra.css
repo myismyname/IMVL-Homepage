@@ -1,0 +1,311 @@
+.md-content {
+    text-align: justify;
+}
+
+[data-md-color-scheme="rllte"] {
+    --md-primary-fg-color: #8c1c21;
+    --md-accent-fg-color: #8c1c21;
+    --md-typeset-a-color: #8c1c21;
+  }  
+
+[data-md-color-scheme="white"] {
+  --md-primary-fg-color: #8c1c21;
+  --md-accent-fg-color: #8c1c21;
+  --md-typeset-a-color: #8c1c21;
+  --md-default-fg-color--light: #000000de;
+}  
+
+/* .color a:hover{
+    color: rgb(0,83,214);
+} */
+
+.md-header__button.md-logo img, .md-header__button.md-logo svg {
+  fill: currentcolor;
+  display: block;
+  height: 2.2rem;
+  width: auto;
+}
+
+/* Header文字颜色设置为纯白色 */
+.md-header {
+  color: #ffffff;
+}
+
+.md-header__title {
+  color: #ffffff;
+}
+
+.md-header__button {
+  color: #ffffff;
+}
+
+.md-header__topic {
+  color: #ffffff;
+}
+
+.md-header__source {
+  color: #ffffff;
+}
+
+/* Header菜单文字颜色设置为纯白色 */
+.md-tabs {
+  color: #ffffff;
+}
+
+.md-tabs__link {
+  font-size: 0.8rem;
+  color: #ffffff !important;
+}
+
+.md-header__nav {
+  color: #ffffff;
+}
+
+.md-header__nav-item {
+  color: #ffffff;
+}
+
+/* Active tab bold & color */
+.md-tabs__link {
+  font-size: .75rem !important;
+}
+.md-tabs__link--active {
+  font-weight: bold !important;
+  color: #ffffff !important;
+}
+.md-tabs__link:hover {
+  color: #ffffff !important;
+}
+
+
+/* navigation bar active color*/
+.md-nav__item .md-nav__link--active {
+  font-weight: bold !important;
+  color: var(--md-accent-fg-color);
+}
+.md-nav__item .md-nav__link--active {
+  font-weight: bold !important;
+  font-size: .75rem !important;
+  color: var(--md-accent-fg-color);
+}
+
+
+/* frontpage elements */
+.tx-hero h1 {
+  font-size: 2.41rem !important;
+}
+a.md-button.md-button--primary {
+  background-color: var(--md-accent-fg-color);
+  border-color: var(--md-accent-fg-color);
+  color: #ffffff;
+}
+a.md-button.md-button--primary:hover {
+  color: #000000;
+}
+a.md-button.md-button:hover {
+  color: #000000;
+}
+
+
+/*Table styling*/
+table {
+padding: 0; }
+table tr {
+  border-top: 1px solid #cccccc;
+  background-color: white;
+  margin: 0;
+  padding: 0; }
+  table tr:nth-child(2n) {
+    background-color: #f8f8f8; }
+  table tr th {
+    font-weight: bold;
+    border: 0px solid #cccccc;
+    text-align: centre;
+    margin: 0;
+    padding: 6px 13px; }
+  table tr td {
+    border: 0px solid #cccccc;
+    text-align: centre;
+    margin: 0;
+    padding: 6px 13px; }
+  table tr th :first-child, table tr td :first-child {
+    margin-top: 0; }
+  table tr th :last-child, table tr td :last-child {
+    margin-bottom: 0; }
+
+
+
+/* Admonition settings option*/
+.md-typeset .admonition.settings, .md-typeset details.settings {
+  border-left: .22rem solid #448aff;
+}
+.md-typeset .admonition.settings>.admonition-title, .md-typeset details.settings>.admonition-title, .md-typeset details.settings>summary {
+  border-bottom: .1rem solid rgba(236, 243, 255, 0.1);
+  background-color: rgba(236, 243, 255, 0.1);
+}
+.md-typeset .admonition.settings>.admonition-title:before, .md-typeset details.settings>.admonition-title:before, .md-typeset details.settings>summary:before {
+  color: #448aff;
+  content: "settings"}
+
+
+/* Site width etc.*/
+.md-grid {
+  max-width: 64rem !important;
+}
+
+/* 手机端全局宽度修复 */
+@media screen and (max-width: 768px) {
+  .md-grid {
+    max-width: 100% !important;
+    width: 100% !important;
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+    margin: 0 !important;
+  }
+
+  .md-main__inner {
+    margin: 0 !important;
+    padding: 0 !important;
+  }
+
+  .md-content {
+    max-width: 100% !important;
+    width: 100% !important;
+    margin: 0 !important;
+  }
+
+  .md-content__inner,
+  article.md-content__inner {
+    max-width: 100% !important;
+    width: 100% !important;
+    margin: 0 !important;
+    padding: 0 12px !important;
+    box-sizing: border-box !important;
+  }
+
+  .md-typeset {
+    max-width: 100% !important;
+  }
+}
+
+
+/* mkdocstrings styling
+/* Indentation. */
+div.doc-contents:not(.first) {
+padding-left: 25px;
+border-left: 4px solid rgba(230, 230, 230);
+margin-bottom: 80px;
+}
+
+/* ========== Member Cards - 桌面端（两列水平布局） ========== */
+@media screen and (min-width: 769px) {
+  .md-typeset .member-cards {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 20px;
+    width: 100%;
+  }
+
+  .md-typeset .member-card {
+    display: grid;
+    grid-template-columns: 120px 1fr;
+    align-items: center;
+    gap: 15px;
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    padding: 20px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    box-sizing: border-box;
+  }
+
+  .md-typeset .member-card-avatar img {
+    width: 120px;
+    height: 150px;
+    border-radius: 8px;
+    object-fit: cover;
+    object-position: center;
+    display: block;
+  }
+
+  .md-typeset .member-card-info {
+    min-width: 0;
+  }
+
+  .md-typeset .member-card-info .name {
+    font-weight: bold;
+  }
+
+  .md-typeset .member-card-info .title {
+    font-weight: bold;
+  }
+
+  .md-typeset .member-card-info .keywords {
+    font-size: 0.85em;
+    color: #555;
+    font-style: italic;
+    margin: 4px 0;
+  }
+}
+
+/* ========== Member Cards - 手机端（单列水平布局，照片在左） ========== */
+@media screen and (max-width: 768px) {
+  .md-typeset .member-cards {
+    display: flex !important;
+    flex-direction: column !important;
+    gap: 15px !important;
+    width: 100% !important;
+  }
+
+  .md-typeset .member-card {
+    display: flex !important;
+    flex-direction: row !important;
+    align-items: center !important;
+    text-align: left !important;
+    width: 100% !important;
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    padding: 15px !important;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    box-sizing: border-box !important;
+    gap: 15px !important;
+  }
+
+  .md-typeset .member-card-avatar {
+    flex-shrink: 0 !important;
+  }
+
+  .md-typeset .member-card-avatar img {
+    width: 80px !important;
+    height: 100px !important;
+    border-radius: 8px;
+    object-fit: cover;
+    object-position: center;
+    display: block !important;
+  }
+
+  .md-typeset .member-card-info {
+    flex: 1 !important;
+    min-width: 0 !important;
+  }
+
+  .md-typeset .member-card-info .name {
+    font-weight: bold;
+  }
+
+  .md-typeset .member-card-info .title {
+    font-weight: bold;
+  }
+
+  .md-typeset .member-card-info .keywords {
+    font-size: 12px !important;
+    color: #555;
+    font-style: italic;
+  }
+
+  .md-typeset .member-card-info div {
+    font-size: 13px !important;
+    line-height: 1.4 !important;
+    margin-bottom: 3px !important;
+    word-wrap: break-word !important;
+  }
+}
